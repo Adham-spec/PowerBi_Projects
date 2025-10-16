@@ -118,7 +118,7 @@ The dashboard is structured into four dedicated analytical pages, accessible via
 A visual tour of the four main analysis pages:
 
 ### Sales Analysis Page
-![Sales Analysis](screenshots/sales_analysis.png)
+[![Sales Analysis](screenshots/sales_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015423.png)
 
 ### Product Analysis Page
 ![Product Analysis](screenshots/product_analysis.png)
