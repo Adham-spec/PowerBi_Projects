@@ -36,7 +36,7 @@ A visual walkthrough of the dashboard's capabilities:
 [![Product Analysis - Orders View](screenshots/product_analysis_orders.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%203.png)
 
 ### Tax Analysis View
-![Tax Analysis View](screenshots/tax_analysis.png)
+[![Tax Analysis View](screenshots/tax_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%202.png)
 
 ## 💡 Learnings & Insights
 * **Insight:** The dashboard effectively demonstrates the relationship between high sales periods and their corresponding tax implications, providing a more complete business picture.
