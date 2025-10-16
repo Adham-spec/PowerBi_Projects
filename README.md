@@ -27,7 +27,7 @@ Here's a visual overview of the dashboard pages:
 ![HR Attrition Reasons]([Dashboard Dark 2.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dasboard%20Dark%202.png))
 
 ## 💡 Learnings & Insights
-*(Optional - highly recommended to show your thought process)*
+
 * **Insight 1:** Understanding how specific job roles contribute disproportionately to overall attrition.
 * **Insight 2:** Identifying correlation between factors like overtime and attrition rates.
 * **Challenge Addressed:** (e.g., "Ensuring data integrity from multiple HR data extracts and transforming it into a cohesive model for analysis was a key challenge overcome using Power Query.")
