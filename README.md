@@ -30,7 +30,7 @@ This dashboard is composed of two main interactive pages:
 A visual walkthrough of the dashboard's capabilities:
 
 ### Product Analysis View (showing Total Profit by Quarter)
-![Product Analysis - Profit View](screenshots/product_analysis_profit.png)
+[![Product Analysis - Profit View](screenshots/product_analysis_profit.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%201.png)
 
 ### Product Analysis View (showing Total Orders by Quarter - demonstrates interactivity)
 ![Product Analysis - Orders View](screenshots/product_analysis_orders.png)
