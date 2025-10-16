@@ -1,4 +1,52 @@
 # PowerBi_Projects
+# Product & Tax Analysis Dashboard
+
+## 🚀 Project Overview
+A comprehensive, dual-view Power BI dashboard designed to provide a holistic analysis of business performance. This report allows stakeholders to seamlessly switch between analyzing core product metrics (Sales, Profit, Orders) and examining key tax-related figures, enabling data-driven strategic decisions.
+
+## 📊 Key Features & Analysis
+This dashboard is composed of two main interactive pages:
+
+### 1. Product Analysis Page
+* **High-Level KPIs:** Tracks essential metrics including Total Orders, Total Profit, and Total Sales, with a clear Year-over-Year (YoY) growth percentage for each.
+* **Dynamic Metric Slicer ("Target"):** A key interactive feature allowing users to select a metric (Total Quantity, Total Profit, Total Orders, or Sales). This selection dynamically changes the main Donut Chart to show the quarterly breakdown of the chosen metric.
+* **Time-Based Filtering:** Users can easily filter the entire report by Month, Quarter, and Year to drill down into specific periods.
+
+### 2. Tax Analysis Page
+* **Tax-Specific KPIs:** Monitors critical tax metrics such as Average Tax, Sales Including Tax, and Total Quantity, complete with YoY performance indicators.
+* **Monthly Sales Trends:** A line chart visualizes sales performance on a monthly basis, making it easy to spot trends and seasonality.
+* **Hierarchical Tax Breakdown:** An interactive drill-down visual that allows for a detailed analysis of total tax amounts by Year, Quarter, and Month, providing granular insights into tax liabilities over time.
+* **Seamless Navigation:** Clear buttons allow for easy switching between the "Product Analysis" and "Tax Analysis" views.
+
+## 🛠️ Tools & Technologies
+* **Power BI Desktop:** Used for data modeling, visualization, and creating an interactive user experience.
+* **DAX (Data Analysis Expressions):** Implemented for advanced calculations including:
+    * Time intelligence functions to calculate Year-over-Year (YoY) growth.
+    * Dynamic measures using `SWITCH` and `SELECTEDVALUE` to power the "Target" slicer.
+* **Power Query (M Language):** Utilized for data cleaning, transformation, and preparation.
+* **Data Source:** (e.g., Financial Database, E-commerce Platform Data - replace with your actual data source).
+
+## 📸 Dashboard Screenshots
+A visual walkthrough of the dashboard's capabilities:
+
+### Product Analysis View (showing Total Profit by Quarter)
+![Product Analysis - Profit View](screenshots/product_analysis_profit.png)
+
+### Product Analysis View (showing Total Orders by Quarter - demonstrates interactivity)
+![Product Analysis - Orders View](screenshots/product_analysis_orders.png)
+
+### Tax Analysis View
+![Tax Analysis View](screenshots/tax_analysis.png)
+
+## 💡 Learnings & Insights
+* **Insight:** The dashboard effectively demonstrates the relationship between high sales periods and their corresponding tax implications, providing a more complete business picture.
+* **Challenge Addressed:** The main technical challenge was creating the dynamic "Target" slicer. This was solved by writing a flexible DAX measure using the `SWITCH` function, which changes the calculation based on the user's selection, making the report highly interactive and user-friendly.
+
+
+
+
+
+
 # HR Attrition Analysis Dashboard
 
 ## 🚀 Project Overview
