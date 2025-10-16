@@ -126,18 +126,13 @@ A visual tour of the four main analysis pages:
 ### Returned Orders Analysis Page
 [![Returned Orders Analysis](screenshots/returned_orders_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015557.png)
 
-### Production Analysis Page
-![Production Analysis](screenshots/production_analysis.png)
+### Production Analysis Page[
+![Production Analysis](screenshots/production_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015657.png)
 
 
 ## 💡 Learnings & Insights
-*(Optional - highly recommended to show your thought process)*
 * **Holistic Insight:** This project demonstrates the power of creating a connected data story. For example, one could potentially correlate a spike in "Downtime by Work Center" (Production page) with a subsequent increase in "Returns by Complaint Description" for "Broken part" (Returns page).
 * **Challenge Addressed:** A primary challenge was developing a robust and optimized data model that could efficiently serve four distinct yet interconnected areas of analysis without sacrificing performance. This was achieved through careful schema design and relationship management in Power BI.
 
-## 🔗 Live Report (Interactive)
-Experience the interactive dashboard directly on Power BI Service:
-* [**View Live ProAnalytix Dashboard**](https://app.powerbi.com/view?r=YOUR_REPORT_LINK_HERE)
-    *(Replace `YOUR_REPORT_LINK_HERE` with the actual shareable link from Power BI Service)*
 
   
