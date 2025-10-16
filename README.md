@@ -1,4 +1,5 @@
 # PowerBi_Projects
+
 # Product & Tax Analysis Dashboard
 
 ## 🚀 Project Overview
@@ -79,3 +80,64 @@ Here's a visual overview of the dashboard pages:
 * **Insight 1:** Understanding how specific job roles contribute disproportionately to overall attrition.
 * **Insight 2:** Identifying correlation between factors like overtime and attrition rates.
 * **Challenge Addressed:** (e.g., "Ensuring data integrity from multiple HR data extracts and transforming it into a cohesive model for analysis was a key challenge overcome using Power Query.")
+
+
+# ProAnalytix: Comprehensive Business Analysis Dashboard
+
+## 🚀 Project Overview
+ProAnalytix is a holistic, multi-page Power BI dashboard designed to provide a 360-degree view of business operations. This comprehensive solution integrates analysis across four key pillars: Sales, Products, Returned Orders, and Production. The dashboard empowers decision-makers to move seamlessly from high-level sales performance to granular production-line metrics, all within a single, unified environment.
+
+## 📊 Key Features & Analysis
+The dashboard is structured into four dedicated analytical pages, accessible via an intuitive navigation pane:
+
+### 1. Sales Analysis
+* **Core KPIs:** Tracks Total Orders, Total Sales, and Total Products to provide a quick snapshot of sales activity.
+* **Performance Breakdown:** Visualizes sales performance by Region, Product Category, Quarter, and Month, allowing for detailed trend analysis.
+
+### 2. Product Analysis
+* **Cost-Centric KPIs:** Focuses on key cost metrics including Average Price Per Product and Total Cost.
+* **Geographical Cost Distribution:** Analyzes total cost distribution by Region and Country.
+* **Temporal Cost Trends:** Provides insights into how costs fluctuate on a quarterly and monthly basis.
+
+### 3. Returned Orders Analysis
+* **Returns Monitoring:** Tracks critical return metrics such as Number of Returned Orders, Sales Value of Returns, and the overall Returns Rate.
+* **Root Cause Analysis:** A key feature that breaks down returns by complaint description (e.g., "Size not correct", "Broken part"), providing actionable feedback for quality improvement.
+* **Regional & Seasonal Patterns:** Identifies if certain regions or times of the year have higher return rates.
+
+### 4. Production Analysis
+* **Operational Efficiency KPIs:** Monitors production output with metrics like Total Actual Quantity, Total Hours, and Count of Downtime events.
+* **Machine & Work Center Performance:** Analyzes production quantity, duration, and downtime by specific Machine Type and Work Center, helping to identify bottlenecks and areas for improvement.
+
+## 🛠️ Tools & Technologies
+* **Power BI Desktop:** Used for end-to-end development, from data modeling and transformation to creating the final interactive visualizations.
+* **DAX (Data Analysis Expressions):** Implemented for a wide range of calculations, including aggregation (Total Sales, Total Cost) and performance rates (Returns Rate).
+* **Power Query (M Language):** Utilized for extensive data cleaning, shaping, and integrating data from multiple business functions (Sales, Production, etc.).
+* **Data Source:** (e.g., Enterprise Resource Planning (ERP) System, multiple CSV files - replace with your actual data source).
+
+## 📸 Dashboard Screenshots
+A visual tour of the four main analysis pages:
+
+### Sales Analysis Page
+![Sales Analysis](screenshots/sales_analysis.png)
+
+### Product Analysis Page
+![Product Analysis](screenshots/product_analysis.png)
+
+### Returned Orders Analysis Page
+![Returned Orders Analysis](screenshots/returned_orders_analysis.png)
+
+### Production Analysis Page
+![Production Analysis](screenshots/production_analysis.png)
+
+
+## 💡 Learnings & Insights
+*(Optional - highly recommended to show your thought process)*
+* **Holistic Insight:** This project demonstrates the power of creating a connected data story. For example, one could potentially correlate a spike in "Downtime by Work Center" (Production page) with a subsequent increase in "Returns by Complaint Description" for "Broken part" (Returns page).
+* **Challenge Addressed:** A primary challenge was developing a robust and optimized data model that could efficiently serve four distinct yet interconnected areas of analysis without sacrificing performance. This was achieved through careful schema design and relationship management in Power BI.
+
+## 🔗 Live Report (Interactive)
+Experience the interactive dashboard directly on Power BI Service:
+* [**View Live ProAnalytix Dashboard**](https://app.powerbi.com/view?r=YOUR_REPORT_LINK_HERE)
+    *(Replace `YOUR_REPORT_LINK_HERE` with the actual shareable link from Power BI Service)*
+
+  
