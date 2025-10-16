@@ -24,7 +24,7 @@ Here's a visual overview of the dashboard pages:
 ![HR Attrition Dashboard Overview]([Dashboard Dark 1.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dashboard%20Dark%201.png))
 
 ### Exploring Attrition Reasons by Job Role and Education
-![HR Attrition Reasons](screenshots/hr_attrition_reasons.png)
+![HR Attrition Reasons]([screenshots/hr_attrition_reasons.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dasboard%20Dark%202.png))
 
 ## 💡 Learnings & Insights
 *(Optional - highly recommended to show your thought process)*
