@@ -124,7 +124,7 @@ A visual tour of the four main analysis pages:
 [![Product Analysis](screenshots/product_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015520.png)
 
 ### Returned Orders Analysis Page
-![Returned Orders Analysis](screenshots/returned_orders_analysis.png)
+[![Returned Orders Analysis](screenshots/returned_orders_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015557.png)
 
 ### Production Analysis Page
 ![Production Analysis](screenshots/production_analysis.png)
