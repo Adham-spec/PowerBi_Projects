@@ -33,7 +33,7 @@ A visual walkthrough of the dashboard's capabilities:
 [![Product Analysis - Profit View](screenshots/product_analysis_profit.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%201.png)
 
 ### Product Analysis View (showing Total Orders by Quarter - demonstrates interactivity)
-![Product Analysis - Orders View](screenshots/product_analysis_orders.png)
+[![Product Analysis - Orders View](screenshots/product_analysis_orders.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%203.png)
 
 ### Tax Analysis View
 ![Tax Analysis View](screenshots/tax_analysis.png)
