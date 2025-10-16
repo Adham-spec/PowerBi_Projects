@@ -21,7 +21,7 @@ This interactive Power BI dashboard is designed to analyze and identify the key 
 Here's a visual overview of the dashboard pages:
 
 ### Attrition Analysis Overview
-![HR Attrition Dashboard Overview](C:\Users\Asus\OneDrive\Power bi Dashboards)
+![HR Attrition Dashboard Overview](Dashboard Dark 1.png )
 
 ### Exploring Attrition Reasons by Job Role and Education
 ![HR Attrition Reasons](screenshots/hr_attrition_reasons.png)
