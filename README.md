@@ -31,8 +31,3 @@ Here's a visual overview of the dashboard pages:
 * **Insight 1:** Understanding how specific job roles contribute disproportionately to overall attrition.
 * **Insight 2:** Identifying correlation between factors like overtime and attrition rates.
 * **Challenge Addressed:** (e.g., "Ensuring data integrity from multiple HR data extracts and transforming it into a cohesive model for analysis was a key challenge overcome using Power Query.")
-
-## 🔗 Live Report (Interactive)
-Experience the interactive dashboard directly on Power BI Service:
-* [**View Live HR Attrition Dashboard**](https://app.powerbi.com/view?r=YOUR_REPORT_LINK_HERE)
-    *(Replace `YOUR_REPORT_LINK_HERE` with the actual shareable link from Power BI Service)*
