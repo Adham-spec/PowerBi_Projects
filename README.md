@@ -23,9 +23,7 @@ This dashboard is composed of two main interactive pages:
 * **Power BI Desktop:** Used for data modeling, visualization, and creating an interactive user experience.
 * **DAX (Data Analysis Expressions):** Implemented for advanced calculations including:
     * Time intelligence functions to calculate Year-over-Year (YoY) growth.
-    * Dynamic measures using `SWITCH` and `SELECTEDVALUE` to power the "Target" slicer.
 * **Power Query (M Language):** Utilized for data cleaning, transformation, and preparation.
-* **Data Source:** (e.g., Financial Database, E-commerce Platform Data - replace with your actual data source).
 
 ## 📸 Dashboard Screenshots
 
@@ -54,7 +52,6 @@ This interactive Power BI dashboard is designed to analyze and identify the key 
 * **Power BI Desktop:** For data modeling, report design, and visualization.
 * **DAX (Data Analysis Expressions):** Utilized for complex calculations and custom measures (e.g., Attrition Rate, Monthly Income for Attrited Employees).
 * **Power Query (M Language):** Employed for data extraction, transformation, and loading (ETL) processes to clean and prepare raw data.
-* **Data Source:** (e.g., Employee HR Data CSV, SQL Database - replace with your actual data source).
 
 ## 📸 Dashboard Screenshots
 
@@ -96,8 +93,6 @@ The dashboard is structured into four dedicated analytical pages, accessible via
 * **Power BI Desktop:** Used for end-to-end development, from data modeling and transformation to creating the final interactive visualizations.
 * **DAX (Data Analysis Expressions):** Implemented for a wide range of calculations, including aggregation (Total Sales, Total Cost) and performance rates (Returns Rate).
 * **Power Query (M Language):** Utilized for extensive data cleaning, shaping, and integrating data from multiple business functions (Sales, Production, etc.).
-* **Data Source:** (e.g., Enterprise Resource Planning (ERP) System, multiple CSV files - replace with your actual data source).
-
 ## 📸 Dashboard Screenshots
 
 ### Sales Analysis
