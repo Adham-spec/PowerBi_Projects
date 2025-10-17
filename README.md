@@ -107,7 +107,7 @@ The dashboard is structured into four dedicated analytical pages, accessible via
 ### Production Analysis
 ![Production Analysis](Production%20Analysis.png)
 
----
+
 
 ## 💡 Learnings & Insights
 * **Holistic Insight:** This project demonstrates the power of creating a connected data story. For example, one could potentially correlate a spike in "Downtime by Work Center" (Production page) with a subsequent increase in "Returns by Complaint Description" for "Broken part" (Returns page).
