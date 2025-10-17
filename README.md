@@ -71,7 +71,8 @@ Here's a visual overview of the dashboard pages:
 
 ### Attrition Analysis Overview
 [[https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dashboard%20Dark%201.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/HR%20Attrition%20Dashboard%20Overview.png)
-](https://github.com/Adham-spec/PowerBi_Projects/blob/main/HR%20Attrition%20Dashboard%20Overview.png)### Exploring Attrition Reasons by Job Role and Education
+](https://github.com/Adham-spec/PowerBi_Projects/blob/main/HR%20Attrition%20Dashboard%20Overview.png)
+### Exploring Attrition Reasons by Job Role and Education
 [[![HR Attrition Reasons]([Dashboard Dark 2.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dasboard%20Dark%202.png))](https://github.com/Adham-spec/PowerBi_Projects/blob/main/HR%20Attrition%20Dashboard%20Overview.png)
 ## 💡 Learnings & Insights
 
