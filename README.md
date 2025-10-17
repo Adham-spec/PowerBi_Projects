@@ -70,7 +70,7 @@ This interactive Power BI dashboard is designed to analyze and identify the key 
 Here's a visual overview of the dashboard pages:
 
 ### Attrition Analysis Overview
-https://github.com/Adham-spec/PowerBi_Projects/blob/933ae656a5b9e2e47d4ddfd46f104b8866c00221/HR%20Attrition%20Dashboard%20Overview.png
+![HR Attrition Dashboard Overview](ScreensHR/HR Attrition Dashboard Overview.png)
 ### Exploring Attrition Reasons by Job Role and Education
 [[![HR Attrition Reasons]([Dashboard Dark 2.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dasboard%20Dark%202.png))](https://github.com/Adham-spec/PowerBi_Projects/blob/main/HR%20Attrition%20Dashboard%20Overview.png)
 ## 💡 Learnings & Insights
