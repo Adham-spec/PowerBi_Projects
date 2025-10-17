@@ -28,25 +28,15 @@ This dashboard is composed of two main interactive pages:
 * **Data Source:** (e.g., Financial Database, E-commerce Platform Data - replace with your actual data source).
 
 ## 📸 Dashboard Screenshots
-A visual walkthrough of the dashboard's capabilities:
 
-### Product Analysis View (showing Total Profit by Quarter)
-[![Product Analysis - Profit View](screenshots/product_analysis_profit.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%201.png)
-
-### Product Analysis View (showing Total Orders by Quarter - demonstrates interactivity)
-[![Product Analysis - Orders View](screenshots/product_analysis_orders.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%203.png)
+### Product Analysis Views
+![Product Analysis - Profit View](Product%20Analysis%20-%20Profit%20View.png)  
+![Product Analysis - Orders View](Product%20Analysis%20-%20Orders%20View.png)
 
 ### Tax Analysis View
-[![Tax Analysis View](screenshots/tax_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Detailed%20Dashboard%202.png)
+![Tax Analysis View](Tax%20Analysis%20View.png)
 
-## 💡 Learnings & Insights
-* **Insight:** The dashboard effectively demonstrates the relationship between high sales periods and their corresponding tax implications, providing a more complete business picture.
-* **Challenge Addressed:** The main technical challenge was creating the dynamic "Target" slicer. This was solved by writing a flexible DAX measure using the `SWITCH` function, which changes the calculation based on the user's selection, making the report highly interactive and user-friendly.
-
-
-
-
-
+---
 
 # HR Attrition Analysis Dashboard
 
@@ -67,18 +57,14 @@ This interactive Power BI dashboard is designed to analyze and identify the key 
 * **Data Source:** (e.g., Employee HR Data CSV, SQL Database - replace with your actual data source).
 
 ## 📸 Dashboard Screenshots
-Here's a visual overview of the dashboard pages:
 
-### Attrition Analysis Overview
-![HR Attrition Dashboard Overview](ScreensHR/HR Attrition Dashboard Overview.png)
-### Exploring Attrition Reasons by Job Role and Education
-[[![HR Attrition Reasons]([Dashboard Dark 2.png](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Dasboard%20Dark%202.png))](https://github.com/Adham-spec/PowerBi_Projects/blob/main/HR%20Attrition%20Dashboard%20Overview.png)
-## 💡 Learnings & Insights
+### HR Attrition Overview
+![HR Attrition Dashboard Overview](HR%20Attrition%20Dashboard%20Overview.png)
 
-* **Insight 1:** Understanding how specific job roles contribute disproportionately to overall attrition.
-* **Insight 2:** Identifying correlation between factors like overtime and attrition rates.
-* **Challenge Addressed:** (e.g., "Ensuring data integrity from multiple HR data extracts and transforming it into a cohesive model for analysis was a key challenge overcome using Power Query.")
+### Attrition Reasons
+![HR Attrition Reasons](HR%20Attrition%20Reasons.png)
 
+---
 
 # ProAnalytix: Comprehensive Business Analysis Dashboard
 
@@ -113,24 +99,21 @@ The dashboard is structured into four dedicated analytical pages, accessible via
 * **Data Source:** (e.g., Enterprise Resource Planning (ERP) System, multiple CSV files - replace with your actual data source).
 
 ## 📸 Dashboard Screenshots
-A visual tour of the four main analysis pages:
 
-### Sales Analysis Page
-[![Sales Analysis](screenshots/sales_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015423.png)
+### Sales Analysis
+![Sales Analysis](Sales%20Analysis.png)
 
-### Product Analysis Page
-[![Product Analysis](screenshots/product_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015520.png)
+### Product Analysis
+![Product Analysis](Product%20Analysis.png)
 
-### Returned Orders Analysis Page
-[![Returned Orders Analysis](screenshots/returned_orders_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015557.png)
+### Returned Order Analysis
+![Returned Order Analysis](Returned%20Order%20Analysis.png)
 
-### Production Analysis Page[
-[![Production Analysis](screenshots/production_analysis.png)](https://github.com/Adham-spec/PowerBi_Projects/blob/main/Screenshot%202025-10-17%20015657.png)
+### Production Analysis
+![Production Analysis](Production%20Analysis.png)
 
+---
 
 ## 💡 Learnings & Insights
 * **Holistic Insight:** This project demonstrates the power of creating a connected data story. For example, one could potentially correlate a spike in "Downtime by Work Center" (Production page) with a subsequent increase in "Returns by Complaint Description" for "Broken part" (Returns page).
 * **Challenge Addressed:** A primary challenge was developing a robust and optimized data model that could efficiently serve four distinct yet interconnected areas of analysis without sacrificing performance. This was achieved through careful schema design and relationship management in Power BI.
-
-
-  
